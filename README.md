@@ -24,7 +24,7 @@ The Spotify Clone project aims to replicate the core design and UI of Spotify's 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/spotify-clone.git
+   git clone https://github.com/seervik/Spotify-Clone.git
    cd spotify-clone
 2. **Run HTML, CSS and JS files:
 
